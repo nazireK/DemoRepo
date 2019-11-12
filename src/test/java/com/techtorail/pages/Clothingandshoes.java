@@ -10,5 +10,6 @@ public class Clothingandshoes {
     public void setup() {
 
         driver = driverUtility.driversetup("CHROME");
+        
     }
 }
