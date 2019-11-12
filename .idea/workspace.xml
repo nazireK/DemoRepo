@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1fd42d5-ea7e-48b7-9d5b-9066411a8b00" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ScykvKgFd2lOYV4MOwRGwGcx5c" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/techtorail" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ScreenShotTest.screenshotTest">
+    <configuration name="JeweleryandAcceseriousTest.nagivate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorail" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorail.JeweleryandAcceseriousTest" />
+      <option name="METHOD_NAME" value="nagivate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinFunctionality.incorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorail.Zillow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorail.Zillow" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorail.Zillow.JoinFunctionality" />
+      <option name="METHOD_NAME" value="incorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinFunctionality.joinfuctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorail.Zillow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorail.Zillow" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorail.Zillow.JoinFunctionality" />
+      <option name="METHOD_NAME" value="joinfuctionality" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinFunctionality.signin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorail.Zillow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorail.Zillow" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorail.Zillow.JoinFunctionality" />
+      <option name="METHOD_NAME" value="signin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShotTest.screenshotTest" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorail.Zillow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorail.Zillow" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorail.Zillow.ScreenShotTest" />
+      <option name="METHOD_NAME" value="screenshotTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.ScreenShotTest.screenshotTest" />
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="TestNG.JeweleryandAcceseriousTest.nagivate" />
+      <item itemvalue="TestNG.JoinFunctionality.joinfuctionality" />
+      <item itemvalue="TestNG.JoinFunctionality.signin" />
+      <item itemvalue="TestNG.JoinFunctionality.incorrect" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JeweleryandAcceseriousTest.nagivate" />
+        <item itemvalue="TestNG.JoinFunctionality.incorrect" />
+        <item itemvalue="TestNG.JoinFunctionality.signin" />
+        <item itemvalue="TestNG.JoinFunctionality.joinfuctionality" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1fd42d5-ea7e-48b7-9d5b-9066411a8b00" name="Default Changelist" comment="" />
+      <created>1571877325118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571877325118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Checkboxes.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/HomewrokPopUp.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/HomewrokPopUp.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Practice.java</url>
+          <line>32</line>
+          <properties class="com.techtorail.Practice" method="Checkboxes">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Zillow/JoinFunctionality.java</url>
+          <line>107</line>
+          <properties class="com.techtorail.Zillow.JoinFunctionality" method="incorrect">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Zillow/JoinFunctionality.java</url>
+          <line>69</line>
+          <properties class="com.techtorail.Zillow.JoinFunctionality" method="signin">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
