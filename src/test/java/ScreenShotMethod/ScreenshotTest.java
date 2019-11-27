@@ -1,4 +1,4 @@
-package com.techtorail;
+package ScreenShotMethod;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
@@ -13,7 +13,7 @@ import java.io.IOException;
 
 public class ScreenshotTest {
 
-        WebDriver driver;
+       static WebDriver driver;
 
     @BeforeClass
     public void setup() {
@@ -29,7 +29,7 @@ public class ScreenshotTest {
             System.out.println(element.getText());
         }
         @AfterMethod
-        public void tearDown(ITestResult result)throws IOException {
+        public static void tearDown(ITestResult result)throws IOException {
             if (result.getStatus()== ITestResult.FAILURE){
                 long timestamp=System.currentTimeMillis();
                 File src=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);

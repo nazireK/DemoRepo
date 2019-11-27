@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrangeHCR Test" parallel="tests" thread-count="2">
+    <parameter name="driverName" value="chrome"></parameter>
+    <test name="Parameter Test">
+        <classes>
+            <class name="com.techtorail.Tests.TestNGParametrePractice.OrangeHRMDataProvider">
+
+            </class>
+        </classes>
+    </test>
+
+    <test name="Parameter Test1">
+        <parameter name="driverName" value="ff"></parameter>
+        <classes>
+            <class name="com.techtorail.Tests.TestNGParametrePractice.OrangeHRMDataProvider">
+
+            </class>
+        </classes>
+    </test>
+
+
+</suite>

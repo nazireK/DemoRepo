@@ -1,4 +1,4 @@
-package com.techtorail;
+package com.techtorail.Tests.CeheckBoxePractice;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

@@ -1,4 +1,4 @@
-package com.techtorail;
+package com.techtorail.Tests.PracticePackage;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

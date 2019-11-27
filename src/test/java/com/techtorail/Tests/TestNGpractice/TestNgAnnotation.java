@@ -1,8 +1,6 @@
-package TestNGpractice;
+package com.techtorail.Tests.TestNGpractice;
 
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.*;
-import utility.driverUtility;
 
 public class TestNgAnnotation {
 
@@ -11,6 +9,24 @@ public class TestNgAnnotation {
 //    public void setup(){
 //        driver= driverUtility.driversetup("CHROME");
 //    }
+
+    @BeforeSuite
+    public void beforesuite(){
+        System.out.println("This will execute before suite");
+    }
+    @AfterSuite
+    public  void aftersuite(){
+        System.out.println("This will execute after suite ");
+    }
+
+    @BeforeTest
+    public void beforeTest(){
+        System.out.println("This will execute before test");
+    }
+    @AfterTest
+    public void AfterTest(){
+        System.out.println("This will execute after test");
+    }
     @Test(priority = 1)
     public void test1(){
         System.out.println("This is test1");

@@ -1,4 +1,4 @@
-package com.techtorail;
+package com.techtorail.Tests.ActionPractice;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -13,8 +13,17 @@ public class MouseAction {
     WebDriver driver;
     @BeforeClass
     public void setup(){
-        driver=driverUtility.driversetup("CHROME");
+
+        driver=driverUtility.driversetup("CHROME");// driver first time initilazed in this line
+
     }
+    @Test
+    public void teast1(){
+        driver=driverUtility.driversetup("CHROME");
+        // since we initialized it before , it will not init in this line because singleton pattern
+        driver=driverUtility.driversetup("ff");
+    }
+
     @Test
     public void mouseActionIntro(){
         Actions actions=new Actions(driver);
@@ -45,6 +54,8 @@ public class MouseAction {
         driver.get("http://the-internet.herokuapp.com");
         WebElement dragD = driver.findElement(By.xpath("//a[@href='/drag_and_drop']"));
         dragD.click();
+
+
         WebElement sourceELement = driver.findElement(By.id("column-a"));
         WebElement targetElement = driver.findElement(By.id("column-b"));
 

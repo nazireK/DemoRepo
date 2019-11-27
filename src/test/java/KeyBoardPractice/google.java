@@ -1,4 +1,4 @@
-package com.techtorail;
+package KeyBoardPractice;
 
 
 import org.openqa.selenium.By;

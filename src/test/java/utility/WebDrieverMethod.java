@@ -1,4 +1,4 @@
-package com.techtorail;
+package utility;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

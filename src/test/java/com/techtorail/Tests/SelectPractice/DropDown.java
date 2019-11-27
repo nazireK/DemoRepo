@@ -1,4 +1,4 @@
-package com.techtorail;
+package com.techtorail.Tests.SelectPractice;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

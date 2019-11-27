@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1fd42d5-ea7e-48b7-9d5b-9066411a8b00" name="Default Changelist" comment="" />
+    <list default="true" id="a1fd42d5-ea7e-48b7-9d5b-9066411a8b00" name="Default Changelist" comment="Added one line.">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_webdriver_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_webdriver_webdriver_common_0_9_7089.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrangeHRM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resource/credentials.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HeadlessDriver/DesiredCappacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HeadlessDriver/HTMLUnitDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HeadlessDriver/Headless.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HeadlessDriver/PhantomJS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IframeIntro/Iframe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JScriptexecutrointro/JSPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/CookiesIntro/Cookies1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/ReadFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/TestNGParametrePractice/OrangeHRMDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/TestNGParametrePractice/OrangeHRMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utility/BrowserUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utility/PropertiesUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumIntroduction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumIntroduction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/KeyBoardPractice/google.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/KeyBoardPractice/google.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ScreenShotMethod/ScreenshotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScreenShotMethod/ScreenshotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/ActionPractice/HomeworkHoverover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/ActionPractice/HomeworkHoverover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/ActionPractice/Hoverover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/ActionPractice/Hoverover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/ActionPractice/MouseAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/ActionPractice/MouseAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/AlertPractice/AlertIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/AlertPractice/AlertIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/CeheckBoxePractice/Checkboxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/CeheckBoxePractice/Checkboxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/CeheckBoxePractice/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/CeheckBoxePractice/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/HomeWorkPackage/Homewrok2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/HomeWorkPackage/Homewrok2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/HomeWorkPackage/HomewrokPopUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/HomeWorkPackage/HomewrokPopUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/AmazonPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/AmazonPrices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/FirstSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/FirstSelenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/Homework10element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/Homework10element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/JeweleryandAcceseriousTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/JeweleryandAcceseriousTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/LocateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/LocateElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/PracticePackage/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/SelectPractice/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/SelectPractice/DropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/TestNGpractice/TestNgAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/TestNGpractice/TestNgAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/WindowHandlePractice/multiwindowhandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/Tests/WindowHandlePractice/multiwindowhandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorail/pages/EtsyHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorail/pages/EtsyHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utility/WebDrieverMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utility/WebDrieverMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/amazon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/AlertIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/AmazonPrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/Checkboxes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/DropDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/FirstSelenium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/Homework10element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/HomeworkHoverover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/Homewrok2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/HomewrokPopUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/Hoverover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/JeweleryandAcceseriousTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/LocateElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/MouseAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/TesClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/WebDrieverMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/google.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/multiwindowhandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/pages/Clothingandshoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorail/pages/Clothingandshoes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorail/pages/EtsyHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorail/pages/EtsyHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utility/driverUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utility/driverUtility.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +91,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,13 +102,18 @@
     </option>
   </component>
   <component name="ProjectId" id="1ScykvKgFd2lOYV4MOwRGwGcx5c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TestNGpractice" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/com/techtorail" />
     </key>
@@ -46,18 +130,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ScreenShotTest.screenshotTest">
-    <configuration name="JeweleryandAcceseriousTest.nagivate" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.USASpeending.UsASppending">
+    <configuration name="HTMLUnitDriver.website (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumIntroduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techtorail.*" />
+          <option name="PATTERN" value="HeadlessDriver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techtorail" />
-      <option name="MAIN_CLASS_NAME" value="com.techtorail.JeweleryandAcceseriousTest" />
-      <option name="METHOD_NAME" value="nagivate" />
+      <option name="PACKAGE_NAME" value="HeadlessDriver" />
+      <option name="MAIN_CLASS_NAME" value="HeadlessDriver.HTMLUnitDriver" />
+      <option name="METHOD_NAME" value="website" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -65,17 +149,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoinFunctionality.incorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HTMLUnitDriver.website" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumIntroduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techtorail.Zillow.*" />
+          <option name="PATTERN" value="HeadlessDriver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techtorail.Zillow" />
-      <option name="MAIN_CLASS_NAME" value="com.techtorail.Zillow.JoinFunctionality" />
-      <option name="METHOD_NAME" value="incorrect" />
+      <option name="PACKAGE_NAME" value="HeadlessDriver" />
+      <option name="MAIN_CLASS_NAME" value="HeadlessDriver.HTMLUnitDriver" />
+      <option name="METHOD_NAME" value="website" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -83,17 +167,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoinFunctionality.joinfuctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HTMLUnitDriver.website1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumIntroduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techtorail.Zillow.*" />
+          <option name="PATTERN" value="HeadlessDriver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techtorail.Zillow" />
-      <option name="MAIN_CLASS_NAME" value="com.techtorail.Zillow.JoinFunctionality" />
-      <option name="METHOD_NAME" value="joinfuctionality" />
+      <option name="PACKAGE_NAME" value="HeadlessDriver" />
+      <option name="MAIN_CLASS_NAME" value="HeadlessDriver.HTMLUnitDriver" />
+      <option name="METHOD_NAME" value="website1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -101,17 +185,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoinFunctionality.signin" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PhantomJS.phantom" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumIntroduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techtorail.Zillow.*" />
+          <option name="PATTERN" value="HeadlessDriver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techtorail.Zillow" />
-      <option name="MAIN_CLASS_NAME" value="com.techtorail.Zillow.JoinFunctionality" />
-      <option name="METHOD_NAME" value="signin" />
+      <option name="PACKAGE_NAME" value="HeadlessDriver" />
+      <option name="MAIN_CLASS_NAME" value="HeadlessDriver.PhantomJS" />
+      <option name="METHOD_NAME" value="phantom" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -130,6 +214,24 @@
       <option name="PACKAGE_NAME" value="com.techtorail.Zillow" />
       <option name="MAIN_CLASS_NAME" value="com.techtorail.Zillow.ScreenShotTest" />
       <option name="METHOD_NAME" value="screenshotTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="USASpeending.UsASppending" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorail.Tests.PracticePackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorail.Tests.PracticePackage" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorail.Tests.PracticePackage.USASpeending" />
+      <option name="METHOD_NAME" value="UsASppending" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -158,17 +260,19 @@
     <list>
       <item itemvalue="TestNG.ScreenShotTest.screenshotTest" />
       <item itemvalue="TestNG.Unnamed" />
-      <item itemvalue="TestNG.JeweleryandAcceseriousTest.nagivate" />
-      <item itemvalue="TestNG.JoinFunctionality.joinfuctionality" />
-      <item itemvalue="TestNG.JoinFunctionality.signin" />
-      <item itemvalue="TestNG.JoinFunctionality.incorrect" />
+      <item itemvalue="TestNG.HTMLUnitDriver.website" />
+      <item itemvalue="TestNG.PhantomJS.phantom" />
+      <item itemvalue="TestNG.HTMLUnitDriver.website (1)" />
+      <item itemvalue="TestNG.HTMLUnitDriver.website1" />
+      <item itemvalue="TestNG.USASpeending.UsASppending" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.JeweleryandAcceseriousTest.nagivate" />
-        <item itemvalue="TestNG.JoinFunctionality.incorrect" />
-        <item itemvalue="TestNG.JoinFunctionality.signin" />
-        <item itemvalue="TestNG.JoinFunctionality.joinfuctionality" />
+        <item itemvalue="TestNG.USASpeending.UsASppending" />
+        <item itemvalue="TestNG.HTMLUnitDriver.website" />
+        <item itemvalue="TestNG.PhantomJS.phantom" />
+        <item itemvalue="TestNG.HTMLUnitDriver.website1" />
+        <item itemvalue="TestNG.HTMLUnitDriver.website (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -183,30 +287,68 @@
       <option name="presentableId" value="Default" />
       <updated>1571877325118</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added one line">
+      <created>1573528593945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573528593945</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added one line.">
+      <created>1573528844699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573528844699</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added one line" />
+    <MESSAGE value="Added one line." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added one line." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Checkboxes.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Tests/CeheckBoxePractice/Checkboxes.java</url>
           <line>26</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/HomewrokPopUp.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Tests/HomeWorkPackage/HomewrokPopUp.java</url>
           <line>21</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/HomewrokPopUp.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Tests/HomeWorkPackage/HomewrokPopUp.java</url>
           <line>85</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/JScriptexecutrointro/JSPractice.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Practice.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorail/Tests/CeheckBoxePractice/Practice.java</url>
           <line>32</line>
-          <properties class="com.techtorail.Practice" method="Checkboxes">
+          <properties class="com.techtorail.Tests.CeheckBoxePractice.Practice" method="Checkboxes">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="9" />
@@ -226,6 +368,30 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/JScriptexecutrointro/JScriptIntro.java</url>
+          <line>21</line>
+          <properties class="JScriptexecutrointro.JScriptIntro" method="jsTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/JScriptexecutrointro/JSPractice.java</url>
+          <line>45</line>
+          <properties class="JScriptexecutrointro.JSPractice" method="targetwebsite">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/HeadlessDriver/HTMLUnitDriver.java</url>
+          <line>23</line>
+          <properties class="HeadlessDriver.HTMLUnitDriver" method="website">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

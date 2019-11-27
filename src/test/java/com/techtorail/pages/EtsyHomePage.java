@@ -20,11 +20,11 @@ public class EtsyHomePage {
         PageFactory.initElements(driver,this);// this initialize this all page instance current class never you forgot this method
     }
     @FindBy(xpath= "global-enhancements-search-query")
-    WebElement searchfield;
+   public WebElement searchfield;
     @FindBy(id = "register")
-    WebElement register;
+    public WebElement register;
     @FindBy(xpath = "//a[@class='nav-link']")
-    WebElement cart;
+   public  WebElement cart;
     @FindBy(id="catnav-primary-link-10855")
     public WebElement jeweleryAndAccesoriesLInk;
 

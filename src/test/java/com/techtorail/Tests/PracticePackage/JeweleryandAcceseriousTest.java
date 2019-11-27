@@ -1,4 +1,4 @@
-package com.techtorail;
+package com.techtorail.Tests.PracticePackage;
 
 import com.techtorail.pages.EtsyHomePage;
 import com.techtorail.pages.JeweleryandAcceserious;
